@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd507526-70a1-4fbb-b13d-beabd115a138" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/data_type_number.dart" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/data_type_number.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/data_type_string.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="data_type_number.dart" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data_type_number.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter2/data_type_number.dart">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
               <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_type_string.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter2/data_type_string.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -43,6 +51,7 @@
         <option value="$PROJECT_DIR$/chapter2/var_and_constant.dart" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/chapter2/data_type_number.dart" />
+        <option value="$PROJECT_DIR$/chapter2/data_type_string.dart" />
       </list>
     </option>
   </component>
@@ -56,8 +65,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -79,7 +88,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -100,12 +109,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.data_type_number.dart">
+  <component name="RunManager" selected="Dart Command Line App.data_type_string.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="data_type_number.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_number.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
+    </configuration>
+    <configuration name="data_type_string.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_string.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
     </configuration>
     <configuration name="var_and_constant.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
@@ -153,9 +166,11 @@
     <list>
       <item itemvalue="Dart Command Line App.data_type_number.dart" />
       <item itemvalue="Dart Command Line App.var_and_constant.dart" />
+      <item itemvalue="Dart Command Line App.data_type_string.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.data_type_string.dart" />
         <item itemvalue="Dart Command Line App.data_type_number.dart" />
         <item itemvalue="Dart Command Line App.var_and_constant.dart" />
       </list>
@@ -210,6 +225,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter2/data_type_number.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter1/hello_world.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -259,13 +281,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/data_type_number.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/data_type_string.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
         </state>
       </provider>
     </entry>
